@@ -18,6 +18,10 @@ http://bmcbride.github.io/bootleaf/
 
 ### Screenshots:
 
+![Bootstrap 3 style](https://github.com/jmann6/Bootleaf-accessibility-plugin-/blob/master/assets/img/screenshots/Bootleaf3_defaultStyles.png)
+
+![Bootstrap 3 with Accessibility Plugin Styles](https://github.com/jmann6/Bootleaf-accessibility-plugin-/blob/master/assets/img/screenshots/Bootleafstyles_withAccessbility_styles.png)
+
 ![Desktop](http://bmcbride.github.io/bootleaf/screenshots/bootleaf-desktop1.png)
 
 ![Desktop Search](http://bmcbride.github.io/bootleaf/screenshots/bootleaf-desktop2.png)
