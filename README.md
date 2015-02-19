@@ -1,9 +1,7 @@
-BootLeaf
+BootLeaf with Accessibility Plugin
 ========
 
-A simple, responsive template for building web mapping applications with [Bootstrap](http://getbootstrap.com/), [Leaflet](http://leafletjs.com/), and [typeahead.js](http://twitter.github.io/typeahead.js/).
-
-Added CSS and JS files from HTML 508 [Accessibility plugin](https://github.com/paypal/bootstrap-accessibility-plugin).
+A simple, responsive template for building web mapping applications with [Bootstrap](http://getbootstrap.com/), [Leaflet](http://leafletjs.com/), [typeahead.js](http://twitter.github.io/typeahead.js/), and [Accessibility plugin](https://github.com/paypal/bootstrap-accessibility-plugin).
 
 ### Demo:
 http://bmcbride.github.io/bootleaf/
