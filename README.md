@@ -11,7 +11,7 @@ A simple, responsive template for building web mapping applications with [Bootst
 * Responsive sidebar feature list with sorting and filtering via [list.js](http://listjs.com/)
 * Marker icons included in grouped layer control via the [grouped layer control plugin](https://github.com/ismyrnow/Leaflet.groupedlayercontrol)
 * Works with screen readers and navigable by keyboard [Bootstrap Accessibility plugin](https://github.com/paypal/bootstrap-accessibility-plugin)
-* Text have a contrast ratio of at least 3:1 (need to test if it is 4.5:1?)  [Bootstrap Accessibility plugin](https://github.com/paypal/bootstrap-accessibility-plugin)
+* Text have a contrast ratio of at least 3:1 (need to test if it is 4.5:1?)  [Bootstrap Accessibility CSS plugin](https://github.com/paypal/bootstrap-accessibility-plugin/blob/master/plugins/css/bootstrap-accessibility_1.0.3.css)
 
 ### Screenshots:
 
