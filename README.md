@@ -3,9 +3,6 @@ BootLeaf with Accessibility Plugin
 
 A simple, responsive template for building web mapping applications with [Bootstrap](http://getbootstrap.com/), [Leaflet](http://leafletjs.com/), [typeahead.js](http://twitter.github.io/typeahead.js/), and [Accessibility plugin](https://github.com/paypal/bootstrap-accessibility-plugin).
 
-### Demo:
-http://bmcbride.github.io/bootleaf/
-
 ### Features:
 * Fullscreen mobile-friendly map template with responsive Navbar and modal placeholders
 * jQuery loading of external GeoJSON files
@@ -13,6 +10,8 @@ http://bmcbride.github.io/bootleaf/
 * Elegant client-side multi-layer feature search with autocomplete using [typeahead.js](http://twitter.github.io/typeahead.js/)
 * Responsive sidebar feature list with sorting and filtering via [list.js](http://listjs.com/)
 * Marker icons included in grouped layer control via the [grouped layer control plugin](https://github.com/ismyrnow/Leaflet.groupedlayercontrol)
+* Works with screen readers and navigable by keyboard [Bootstrap Accessibility plugin](https://github.com/paypal/bootstrap-accessibility-plugin)
+* Text have a contrast ratio of at least 3:1 (need to test if it is 4.5:1?)  [Bootstrap Accessibility plugin](https://github.com/paypal/bootstrap-accessibility-plugin)
 
 ### Screenshots:
 
