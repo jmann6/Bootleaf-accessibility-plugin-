@@ -109,6 +109,7 @@ function syncSidebar() {
 }
 
 /* Basemap Layers */
+
 var mapquestOSM = L.tileLayer("http://{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png", {
   maxZoom: 19,
   subdomains: ["otile1", "otile2", "otile3", "otile4"],
@@ -367,11 +368,14 @@ $.getJSON("data/DOITT_MUSEUM_01_13SEPT2010.geojson", function (data) {
 });
 
 map = L.map("map", {
-  zoom: 10,
-  center: [40.702222, -73.979378],
-  layers: [mapquestOSM, boroughs, markerClusters, highlight],
-  zoomControl: false,
-  attributionControl: false
+    zoom: 5,
+//  center: [39.61, -105.02],  /* Denver Zoom Level 10 */
+    center: [39.011, -98.4842], /* Kansas. USA centered */
+//    center: [35.467, -97.516], /*Oklahoma centered */
+//  layers: [mapquestOSM, salesTerritory, markerClusters, highlight],
+    layers: [mapquestOSM],
+    zoomControl: false,
+    attributionControl: false
 });
 
 /* Layer control listeners that allow for a single markerClusters layer */
